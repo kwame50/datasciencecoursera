@@ -11,14 +11,6 @@ output: ioslides_presentation
 - (problems closed during the month * 100) / (problems opened during the month)
 
 
-## Two Key Inputs for Calculating BMI
-
-- Enter the problems closed during the month
-- Enter the problems opened during the month
-- Press the submit button
-
-
-
 ## Problems closed during the month is a count of all problems that have been totally resolved during the month
 
 - Include all problem requests closed in the month
